@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/almirbi/pepsi-machine/main/apps/webapp/src/components/Deposit/50-purple.png" alt="rupee" width="200"/>
-</p>
-
 ## What's inside?
 
 This turborepo uses [Yarn](https://classic.yarnpkg.com/) as a package manager. It includes the following packages/apps:
